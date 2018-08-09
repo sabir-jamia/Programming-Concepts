@@ -1,2 +1,2 @@
 # Programming-Concepts
-This repository cotains blogs/articles explaining some useful concepts in different programming languages.
+This repository cotains links to blogs/articles explaining some useful concepts in different programming languages.
