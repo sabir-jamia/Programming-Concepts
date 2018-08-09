@@ -1,3 +1,5 @@
 
 ## Contents
-# Symboles --> https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32
+
+* [Symboles]
+  [Links]--> https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32
