@@ -1,7 +1,7 @@
 
 ## Contents
 
-* [Symbols](#Symbols, Iterators, Generators, Async/Await, and Async Iterators — Al)
+* [Symbols, Iterators, Generators, Async/Await, and Async Iterators — Al](#symbols-iterators-generators-async-await-and-async -iterators - al)
   
   
 ## Symbols, Iterators, Generators, Async/Await, and Async Iterators — Al 
