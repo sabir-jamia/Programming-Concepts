@@ -1,8 +1,4 @@
 
-## Contents
+## Links
 
-* [Symbols, Iterators, Generators, Async/Await, and Async Iterators — Al](#symbols-iterators-generators-async-await-and-async -iterators - al)
-  
-  
-## Symbols, Iterators, Generators, Async/Await, and Async Iterators — Al 
-[JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
+* [Symbols, Iterators, Generators, Async/Await, and Async Iterators — Al](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
